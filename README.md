@@ -34,9 +34,13 @@ Modern Web Development Practices: Deepening my understanding of RESTful API prin
 🎯 My Goals:
 
 1.Continue to study and improve my skills in web development, particularly backend development.
+
 2.Contribute to open-source projects and work on large-scale commercial projects.
+
 3.Develop innovative and useful web applications that solve real-world problems.
+
 4.Learn the basics of languages like C++, Go, JavaScripy to broaden my programming capabilities.
+
 5.Improve my JavaScript and Go knowledge to become a full-stack developer.
 
 💻 My Projects:
@@ -46,5 +50,7 @@ In this repositorys, you will find various examples of my projects using Flask. 
 🌐 Contact Me:
 
 GitHub: https://github.com/Homoak
+
 Email: nazarvaniza@gmail.com
+
 Discord: https://discordapp.com/users/1093950203414982787
